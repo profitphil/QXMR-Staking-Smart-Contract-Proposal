@@ -75,9 +75,9 @@ User:
   - 12 Months + 1% QXMR Bonus
 - Selects optional Burn-to-Boost APY:
   - Bronze - Burn 5% QXMR ⇒ Boost APY +10%
-  - Bronze - Burn 10% QXMR ⇒ Boost APY +25%
-  - Bronze - Burn 20% QXMR ⇒ Boost APY +50%
-  - Bronze - Burn 30% QXMR ⇒ Boost APY +80%
+  - Silver - Burn 10% QXMR ⇒ Boost APY +25%
+  - Gold - Burn 20% QXMR ⇒ Boost APY +50%
+  - Platinum - Burn 30% QXMR ⇒ Boost APY +80%
 - Stakes QXMR
 
 ![QXMR Staking Options](staking%20qxmr.png)
