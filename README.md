@@ -80,6 +80,8 @@ User:
   - Platinum - Burn 30% QXMR ⇒ Boost APY +80%
 - Stakes QXMR
 
+***Example UI and APY***
+
 ![QXMR Staking Options](staking%20qxmr.png)
 ![QXMR Rewards Boost](rewards%20boost.png)
 
