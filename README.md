@@ -80,8 +80,8 @@ User:
   - Bronze - Burn 30% QXMR ⇒ Boost APY +80%
 - Stakes QXMR
 
-![QXMR Rewards Boost](rewards%20boost.png)
 ![QXMR Staking Options](staking%20qxmr.png)
+![QXMR Rewards Boost](rewards%20boost.png)
 
 ## Detailed Scope and Timeline
 
