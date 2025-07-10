@@ -87,7 +87,7 @@ User:
 
 ## Detailed Scope and Timeline
 
-### Timeline (6 weeks):
+### Timeline (6-8 weeks):
 - **Week 1-2:** Design UI mockups and smart contract architecture
 - **Week 3-4:** Prototype with staking and reward functionality
 - **Week 5-6:** Smart contract integration and final testing
