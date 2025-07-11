@@ -26,7 +26,7 @@ QXMR token holders can stake their tokens in a smart contract seamlessly integra
 
 An optional burn mechanism allows stakers to sacrifice a portion of their QXMR to boost their APY, enhancing returns while increasing QXMR scarcity to benefit all holders.
 
-Current weekly mining rewards range from 25 to 30 million Qubic, distributed as follows:
+My current weekly mining rewards range from 25 to 30 million Qubic, will be directed to a QXMR Staking wallet and distributed as follows:
 - 67% to stakers
 - 30% to fund mining operations
 - 3% to shareholders
