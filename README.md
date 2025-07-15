@@ -126,7 +126,7 @@ User:
 
 ## Team Composition
 
-- **Profitphil** Team Lead
+- **Profitphil:** Team Lead
 - **Serendıpıtч:** Lead frontend UI developer
 - **Poly:** Lead smart contract developer
 
