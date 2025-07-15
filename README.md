@@ -126,8 +126,7 @@ User:
 
 ## Team Composition
 
--**Profitphil** Team Lead
-Qearn team is back!
+- **Profitphil** Team Lead
 - **Serendıpıtч:** Lead frontend UI developer
 - **Poly:** Lead smart contract developer
 
