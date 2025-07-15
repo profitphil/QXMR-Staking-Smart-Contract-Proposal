@@ -91,7 +91,7 @@ User:
 - **Week 1:** Design UI mockups and smart contract architecture
 - **Week 2-4:** Prototype with staking and reward functionality
 - **Week 5-6:** Smart contract integration and final testing
-- **Week 7-8:** Deployment and IPO
+- **Week 7-8:** Audit, IPO, and Mainnet deployment
 
 ## Milestones and Deliverables
 
@@ -110,6 +110,9 @@ User:
 - Final smart contract with possible updates for providing better data and interaction with UI
 - Smart contract test script
 
+**Milestone 4 (2 Weeks):**
+- Audit, IPO, and Mainnet deployment
+
 ## Payment Terms
 
 **Funding Request:** $20,000 USD
@@ -118,7 +121,8 @@ User:
 **Disbursement**
 - 20% M1: UI mockup (without functionalities), smart contract docs
 - 30% M2: Alpha version of UI and smart contract
-- 50% M3: All test finished beta version
+- 20% M3: All test finished beta version
+- 30% M4: Mainnet deployment
 
 ## Team Composition
 
