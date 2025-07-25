@@ -10,7 +10,7 @@ By offering flexible staking periods—weekly, 1-month, 3-month, 6-month, or 12-
 
 This staking framework not only honors QXMR’s origins but also amplifies the collective drive toward Qubic’s continued growth and innovation.
 
-To be developed by the innovative Qearn team, Serendipity and Poly. This proposal seeks a funding allocation of $20,000 USD (9.3B Qu @ 0.00000215) to wallet: `GBBDPCKSUDPTAFOIROJCFPRLEPXBJSTMKFONPDVBHBWTPUDVFEKRYPSBLLIA`
+To be developed by the innovative Qearn team, Serendipity and Poly. This proposal seeks a funding allocation of $20,000 USD (10B Qu @ 0.000002) to wallet: `GBBDPCKSUDPTAFOIROJCFPRLEPXBJSTMKFONPDVBHBWTPUDVFEKRYPSBLLIA`
 
 ## Business Need
 
