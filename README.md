@@ -27,9 +27,10 @@ QXMR token holders can stake their tokens in a smart contract seamlessly integra
 An optional burn mechanism allows stakers to sacrifice a portion of their QXMR to boost their APY, enhancing returns while increasing QXMR scarcity to benefit all holders.
 
 My current weekly mining rewards range from 25 to 30 million Qubic, will be directed to a QXMR Staking wallet and distributed as follows:
-- 67% to stakers
+- 60% to stakers
 - 30% to fund mining operations
-- 3% to shareholders
+- 5% Qubic burned
+- 5% to shareholders
 
 This transparent, incentivized structure fosters active participation, aligns stakeholder interests, and drives the Qubic network’s sustained growth and value creation.
 
@@ -39,7 +40,8 @@ This transparent, incentivized structure fosters active participation, aligns st
 - **QXMR Burning:** Optional QXMR burn feature to boost APY, promoting token scarcity and enhancing value for all holders.
 - **Wallet Integration:** Seamless compatibility with Qubic’s web and mobile wallets for a smooth and secure staking experience.
 - **Dashboard:** Real-time analytics displaying stake performance, QXMR earnings, and lock history for informed decision-making.
-- **Shareholder Rewards:** 3% of rewards allocated to smart contract shareholders, aligning incentives across the ecosystem.
+- **Deflationary:** 5% of rewards is burned, reducing overall Qubic supply.
+- **Shareholder Rewards:** 5% of rewards allocated to smart contract shareholders, aligning incentives across the ecosystem.
 
 ## Components to Be Developed (High-Level)
 
