@@ -32,7 +32,7 @@ QXMR mining operations currenty range from 25 to 30 million Qubic. These mining 
 - 25% to fund mining operations
 - 5% Qubic burned
 - 5% to shareholders
-- 5% to charity
+- 5% to charity (Kimz300)
 
 ## Components to Be Developed (High-Level)
 
@@ -49,6 +49,8 @@ QXMR mining operations currenty range from 25 to 30 million Qubic. These mining 
 - Staking for QXMR deposits
 - Reward distribution for Qubic payouts
 - Optional Burn-to-Boost logic
+- Weekly Qubic burning
+- Weekly charitable donation
 
 ## Technical Architecture (High-Level)
 - **Smart Contract:** C++
