@@ -5,7 +5,7 @@
 QXMR Staking helps Qubic by burning tokens weekly and reducing supply. This smart contract takes mining rewards and distributes them to stakers while removing Qubic from circulation. QXMR holders can stake their tokens and get mining rewards, and we believe these rewards should benefit not just miners and stakers, but also charitable causes that make a real difference.
 
 To be built by the Qearn team, Serendipity and Poly.
-Funding Request: $16,000 USD (5B Qu @ 0.0000032)
+Funding Request: $18,000 USD (6B Qu @ 0.000003)
 Wallet: GBBDPCKSUDPTAFOIROJCFPRLEPXBJSTMKFONPDVBHBWTPUDVFEKRYPSBLLIA
 
 Key Features
@@ -109,7 +109,7 @@ User:
 
 ## Payment Terms
 
-**Funding Request:** $16,000 USD
+**Funding Request:** $18,000 USD
 - Breakdown: 100% for devs
 
 **Disbursement**
