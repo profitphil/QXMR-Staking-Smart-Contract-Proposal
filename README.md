@@ -1,4 +1,4 @@
-# QXMR Staking Smart Contract Proposal
+# QXMR Staking Smart Contract Proposal (Revised)
 
 ## Introduction
 
