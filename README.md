@@ -2,23 +2,17 @@
 
 ## Introduction
 
-The QXMR token, launched as a heartfelt tribute to Qubic’s pioneering uPoW mining of XMR in Epoch 161, embodies the revolutionary spirit driving Qubic’s remarkable success, with each day fueling anticipation for new all-time highs.
+QXMR Staking helps Qubic by burning tokens weekly and reducing supply. This smart contract takes mining rewards and distributes them to stakers while removing Qubic from circulation. QXMR holders can stake their tokens and get mining rewards, and we believe these rewards should benefit not just miners and stakers, but also charitable causes that make a real difference.
 
-Building on this momentum, our project introduces a dynamic staking model that empowers QXMR holders to actively engage with the network, transforming enthusiasm into tangible participation.
-
-By offering flexible staking periods—weekly, 1-month, 3-month, 6-month, or 12-month—with higher APYs for longer commitments, this initiative incentivizes sustained involvement, strengthening the Qubic ecosystem.
-
-This staking framework not only honors QXMR’s origins but also amplifies the collective drive toward Qubic’s continued growth and innovation.
-
-To be developed by the innovative Qearn team, Serendipity and Poly. This proposal seeks a funding allocation of $20,000 USD (10B Qu @ 0.000002) to wallet: `GBBDPCKSUDPTAFOIROJCFPRLEPXBJSTMKFONPDVBHBWTPUDVFEKRYPSBLLIA`
+To be built by the Qearn team, Serendipity and Poly.
+Funding Request: $16,000 USD (5B Qu @ 0.0000032)
+Wallet: GBBDPCKSUDPTAFOIROJCFPRLEPXBJSTMKFONPDVBHBWTPUDVFEKRYPSBLLIA
 
 ## Business Need
 
-Qubic’s groundbreaking uPoW mining technology marks a significant leap forward, yet mining requirements often sideline enthusiastic community members unable to mine directly, creating a divide within our ecosystem.
+Qubic's mining technology is cutting edge, but mining is getting harder. Because of the XMR mining proof of concept, more people are mining Qubic, which increases difficulty. Now you need newer, expensive CPUs to make money from mining - many people can't afford this hardware. This creates a bigger problem - lots of Qubic supporters feel left out because they can't mine profitably with older computers.
 
-The QXMR staking smart contract offers a transformative solution, empowering every QXMR holder to actively participate by staking their tokens, thus bridging this gap and fostering a unified, inclusive community. By enabling stakers to earn mining-derived rewards across flexible staking periods—weekly, monthly, or up to a year—with higher APYs for longer commitments, and an optional boost-to-burn mechanism to enhance returns, this initiative ensures all members can contribute meaningfully to Qubic’s growth.
-
-Funding this proposal will democratize participation, align stakeholder incentives, and solidify Qubic’s success as a collective, community-driven endeavor, meeting the critical need for equitable engagement in our thriving network.
+QXMR Staking fixes this by letting anyone earn mining rewards through staking, no matter what computer they have. This keeps people engaged in the frontlines of Qubic mining, the heartbeat of our ecosystem.
 
 ## Business Model
 
@@ -26,13 +20,12 @@ QXMR token holders can stake their tokens in a smart contract seamlessly integra
 
 An optional burn mechanism allows stakers to sacrifice a portion of their QXMR to boost their APY, enhancing returns while increasing QXMR scarcity to benefit all holders.
 
-My current weekly mining rewards range from 25 to 30 million Qubic, will be directed to a QXMR Staking wallet and distributed as follows:
+QXMR mining operations currenty range from 25 to 30 million Qubic. These mining rewards will be directed to a QXMR Staking wallet and distributed as follows:
 - 60% to stakers
-- 30% to fund mining operations
+- 25% to fund mining operations
 - 5% Qubic burned
 - 5% to shareholders
-
-This transparent, incentivized structure fosters active participation, aligns stakeholder interests, and drives the Qubic network’s sustained growth and value creation.
+- 5% to charity
 
 ## Functional Features
 - **Staking Interface:** A sleek, intuitive UI enabling users to stake QXMR, monitor rewards, and manage burn options effortlessly.
@@ -42,6 +35,7 @@ This transparent, incentivized structure fosters active participation, aligns st
 - **Dashboard:** Real-time analytics displaying stake performance, QXMR earnings, and lock history for informed decision-making.
 - **Deflationary:** 5% of rewards is burned, reducing overall Qubic supply.
 - **Shareholder Rewards:** 5% of rewards allocated to smart contract shareholders, aligning incentives across the ecosystem.
+- **Social Impact** Donates to real-world causes, positioning Qubic as a community-minded ecosystem.
 
 ## Components to Be Developed (High-Level)
 
@@ -70,7 +64,6 @@ User:
 - Connects Qubic wallet with WalletConnect
 - Chooses amount of QXMR to stake
 - Selects staking period:
-  - 1 Week
   - 1 Month
   - 3 Months
   - 6 Months + 0.4% QXMR Bonus
@@ -117,7 +110,7 @@ User:
 
 ## Payment Terms
 
-**Funding Request:** $20,000 USD
+**Funding Request:** $16,000 USD
 - Breakdown: 100% for devs
 
 **Disbursement**
