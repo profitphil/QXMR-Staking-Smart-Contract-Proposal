@@ -11,7 +11,7 @@ Wallet: GBBDPCKSUDPTAFOIROJCFPRLEPXBJSTMKFONPDVBHBWTPUDVFEKRYPSBLLIA
 Key Features
 
 - **Deflationary:** 5% of Qubic rewards is burned, reducing overall Qubic supply.
-- **Shareholder Rewards:** 5% of rewards allocated to smart contract shareholders, aligning incentives across the ecosystem.
+- **Shareholder Rewards:** 5% of rewards allocated to smart contract shareholders.
 - **Social Impact:** 5% donated to real-world causes, positioning Qubic as a community-minded ecosystem.
 - **Reward Distribution:** Qubic payouts calculated based on stake size and duration, ensuring fair and transparent rewards.
 - **QXMR Burning:** Optional QXMR burn feature to boost APY, promoting token scarcity and enhancing value for all holders.
