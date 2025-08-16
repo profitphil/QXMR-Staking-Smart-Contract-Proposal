@@ -28,8 +28,8 @@ QXMR token holders can stake their tokens in a smart contract seamlessly integra
 An optional burn mechanism allows stakers to sacrifice a portion of their QXMR to boost their APY, enhancing returns while increasing QXMR scarcity to benefit all holders.
 
 QXMR mining operations currenty range from 25 to 30 million Qubic. These mining rewards will be directed to a QXMR Staking wallet and distributed as follows:
-- 60% to stakers
-- 25% to fund mining operations
+- 50% to stakers
+- 35% to fund mining operations
 - 5% Qubic burned
 - 5% to shareholders
 - 5% to charity (Kimz300)
