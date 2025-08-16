@@ -8,13 +8,20 @@ To be built by the Qearn team, Serendipity and Poly.
 Funding Request: $16,000 USD (5B Qu @ 0.0000032)
 Wallet: GBBDPCKSUDPTAFOIROJCFPRLEPXBJSTMKFONPDVBHBWTPUDVFEKRYPSBLLIA
 
-## Business Need
+Key Features
+
+- **Deflationary:** 5% of rewards is burned, reducing overall Qubic supply.
+- **Shareholder Rewards:** 5% of rewards allocated to smart contract shareholders, aligning incentives across the ecosystem.
+- **Social Impact** Donates to real-world causes, positioning Qubic as a community-minded ecosystem.
+- **Reward Distribution:** Qubic payouts calculated based on stake size and duration, ensuring fair and transparent rewards.
+- **QXMR Burning:** Optional QXMR burn feature to boost APY, promoting token scarcity and enhancing value for all holders.
+- **Dashboard:** Real-time analytics displaying stake performance, QXMR earnings, and lock history for informed decision-making.
+
+## Business Model
 
 Qubic's mining technology is cutting edge, but mining is getting harder. Because of the XMR mining proof of concept, more people are mining Qubic, which increases difficulty. Now you need newer, expensive CPUs to make money from mining - many people can't afford this hardware. This creates a bigger problem - lots of Qubic supporters feel left out because they can't mine profitably with older computers.
 
 QXMR Staking fixes this by letting anyone earn mining rewards through staking, no matter what computer they have. This keeps people engaged in the frontlines of Qubic mining, the heartbeat of our ecosystem.
-
-## Business Model
 
 QXMR token holders can stake their tokens in a smart contract seamlessly integrated with Qubic’s mining operations, earning rewards in Qubic proportional to their stake size and chosen duration.
 
@@ -26,16 +33,6 @@ QXMR mining operations currenty range from 25 to 30 million Qubic. These mining 
 - 5% Qubic burned
 - 5% to shareholders
 - 5% to charity
-
-## Functional Features
-- **Staking Interface:** A sleek, intuitive UI enabling users to stake QXMR, monitor rewards, and manage burn options effortlessly.
-- **Reward Distribution:** Qubic payouts calculated based on stake size and duration, ensuring fair and transparent rewards.
-- **QXMR Burning:** Optional QXMR burn feature to boost APY, promoting token scarcity and enhancing value for all holders.
-- **Wallet Integration:** Seamless compatibility with Qubic’s web and mobile wallets for a smooth and secure staking experience.
-- **Dashboard:** Real-time analytics displaying stake performance, QXMR earnings, and lock history for informed decision-making.
-- **Deflationary:** 5% of rewards is burned, reducing overall Qubic supply.
-- **Shareholder Rewards:** 5% of rewards allocated to smart contract shareholders, aligning incentives across the ecosystem.
-- **Social Impact** Donates to real-world causes, positioning Qubic as a community-minded ecosystem.
 
 ## Components to Be Developed (High-Level)
 
